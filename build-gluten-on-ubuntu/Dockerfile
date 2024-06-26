@@ -23,5 +23,4 @@
    21  apt -y install uuid-dev
    22  apt -y install autoconf-archive
    23  apt -y install curl zip unzip tar pkg-config bison libtool flex vim
-   24  history | less
 ```
